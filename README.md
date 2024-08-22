@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Nothing to see here, really.
+I speak: Indonesian, English, Python, R, and SQL.
 <!--
 **tengkuirfan/tengkuirfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
