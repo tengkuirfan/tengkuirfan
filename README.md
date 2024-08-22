@@ -1,7 +1,8 @@
 ## Hi there 👋
+A curious human, I see. Well, nothing to see here.
 
-Nothing to see here, really.
-I speak: Indonesian, English, Python, R, and SQL.
+Fun fact about me: I'm multilingual. I speak Indonesian, English, Python, R, and SQL.
+
 <!--
 **tengkuirfan/tengkuirfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
