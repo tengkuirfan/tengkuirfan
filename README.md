@@ -1,7 +1,10 @@
 ## Hi there 👋
 A curious human, I see. Well, nothing to see here.
 
-Fun fact about me: I'm multilingual. I speak Indonesian, English, Python, R, and SQL.
+Fun fact about me
+- I'm multilingual. I speak Indonesian, English, Python, R, and SQL.
+- I publish papers since I was an undergrad student! Here is [my Scholar page](https://scholar.google.com/citations?user=U0YXQvMAAAAJ).
+- Sadly, I'm not the top of my class. I'm pretty problematic to deal with.
 
 <!--
 **tengkuirfan/tengkuirfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
